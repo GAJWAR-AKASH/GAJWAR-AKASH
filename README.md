@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @GAJWAR-AKASH
-- 👀 I’m interested in learnind MERN stack devlopment
+- 👀 Goal -MERN stack devlopment
 - 🌱 I’m currently learning JS
-- 💞️ I’m looking to collaborate on coding platforms
+- 💞️ Just juggling with codes
 - 📫 How to reach me - Drop a mail to gajwarakash@gmail.com
 
 <!---
